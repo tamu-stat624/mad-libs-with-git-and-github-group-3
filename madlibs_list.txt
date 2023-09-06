@@ -1,5 +1,21 @@
-6. Number- 5
-7. Noun (Plural)- cars
-8. Noun (Plural)- mountains
-9. Noun- candy
-10. Room Name- Kitchen
+1. Sam
+2. Exuberant
+3. Tentative
+4. Maroon
+5. April
+6. 9
+7. Mountains
+8. Monkeys
+9. candy
+10. Kitchen
+11. Liquid
+12. Adjective
+13. Material
+14. Activity
+15. Adverb
+16. 5
+17. months
+18. flying
+19. dream
+20. rocket
+21. Noah
