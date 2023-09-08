@@ -3,11 +3,11 @@
 3. Tentative
 4. Maroon
 5. April
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
+6. 9
+7. Mountains
+8. Monkeys
+9. candy
+10. Kitchen
 11. Water
 12. Alluring
 13. Goggles
